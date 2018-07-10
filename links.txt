@@ -17,6 +17,9 @@ Wpscan;https://github.com/wpscanteam/wpscan/archive/master.zip
 UnicornScan;https://github.com/dneufeld/unicornscan/archive/master.zip
 Nmap;https://github.com/nmap/nmap/archive/master.zip
 Netcat;https://github.com/obfusk/netcat.py/archive/master.zip
+LinEnum;https://github.com/rebootuser/LinEnum/archive/master.zip
+LinuxPrivChecker;https://github.com/sleventyeleven/linuxprivchecker/archive/master.zip
+
 
 Windows
 Power Shell Modules;https://github.com/PowerShellMafia/PowerSploit/archive/master.zip
